@@ -23,9 +23,19 @@ header{
 }
 
 
+#itTtwo {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 80vh;
+    color: #FFFFFF;
+}
+
+
     /* COLORS */
 .black{
     background-color: #151515;
+    color: #FFFFFF;
 }
 
 .white{
