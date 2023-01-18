@@ -1,8 +1,29 @@
-/* BACKGROUNDS & COLOR */
+/* HEADER */
+header{
+    height: 15vh;
+
+}
+
+/* JUMBOTRON */
+
+.jumbotron{
+    margin-top: 15vh;
+}
+    
+#jumbotron-show{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: top;
+    height: 80vh;
+    color: #FFFFFF;
+}
+
+.container> img{
+    max-width: 30%;
+}
 
 
-
-/* COLORS */
+    /* COLORS */
 .black{
     background-color: #151515;
 }
@@ -20,4 +41,6 @@
 #playstation-logo{
     width: 100px;
 }
+
+
 
