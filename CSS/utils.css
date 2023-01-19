@@ -42,6 +42,9 @@ header{
     background-color: #FFFFFF;
 }
 
+.light-gray{
+    background-color: lightgrey;
+}
 
 /* IMG & SVG*/
 #sony-logo{
